@@ -1,4 +1,6 @@
 //Ximena Gualupe Rosales Velazquez 08/09/22 2086234
+
+```
 #include<iostream>
 #include<conio.h>
 #include<string.h>
